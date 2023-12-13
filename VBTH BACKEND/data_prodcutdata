@@ -1,0 +1,129 @@
+[
+  {
+    "_id": "656895b1c5db2db1fa3a07ac",
+    "product_keyword": [
+      "mmaf"
+    ],
+    "product_name": "fjdahfjhjhf",
+    "product_number": 15,
+    "product_discription": "kjdhfjkhjk",
+    "product_rate": [
+      {
+        "name": "kjhfjkah",
+        "price": {
+          "A": "1",
+          "B": "1",
+          "C": "1",
+          "D": "1",
+          "E": "1"
+        }
+      }
+    ],
+    "product_type": "jhajkdfhajk",
+    "__v": 0
+  },
+  {
+    "_id": "6568bb85c5db2db1fa3a0ab2",
+    "product_keyword": [
+      "HMM",
+      "HII",
+      "BYE"
+    ],
+    "product_name": "fdsf",
+    "product_number": 21,
+    "product_discription": "afddf",
+    "product_rate": [
+      {
+        "name": "afa",
+        "price": {
+          "A": "20",
+          "B": "203",
+          "C": "1334",
+          "D": "13013",
+          "E": "130213"
+        }
+      },
+      {
+        "name": "FOOT",
+        "price": {
+          "A": "1",
+          "B": "1",
+          "C": "1",
+          "D": "1",
+          "E": "1"
+        }
+      }
+    ],
+    "product_type": "dsfa",
+    "__v": 0
+  },
+  {
+    "_id": "6568bd0fc5db2db1fa3a0aff",
+    "product_keyword": [
+      "AFADF"
+    ],
+    "product_name": "afaf",
+    "product_number": 19,
+    "product_discription": "afaf",
+    "product_rate": [
+      {
+        "name": "affa",
+        "price": {
+          "B": "1",
+          "A": "1",
+          "C": "12",
+          "D": "1212",
+          "E": "1212"
+        }
+      }
+    ],
+    "product_type": "afdafdf",
+    "__v": 0
+  },
+  {
+    "_id": "6568bd39c5db2db1fa3a0b1a",
+    "product_keyword": [
+      "AFDAF"
+    ],
+    "product_name": "afdaffsaf",
+    "product_number": 20,
+    "product_rate": [
+      {
+        "name": "adfgyh",
+        "price": {
+          "A": "1",
+          "B": "1",
+          "C": "1",
+          "D": "1",
+          "E": "1"
+        }
+      }
+    ],
+    "product_type": "adfdaf",
+    "__v": 0
+  },
+  {
+    "_id": "656d677d23278306dc4d2176",
+    "product_keyword": [
+      "ERQ",
+      "IQHRIQHER"
+    ],
+    "product_name": "qerqrqerqrnq req grr",
+    "product_number": 22,
+    "product_discription": "qerqr",
+    "product_rate": [
+      {
+        "name": "foot",
+        "price": {
+          "A": "1",
+          "B": "1",
+          "D": "1",
+          "E": "1",
+          "C": "1"
+        }
+      }
+    ],
+    "product_type": "qerqr",
+    "__v": 0
+  }
+]
