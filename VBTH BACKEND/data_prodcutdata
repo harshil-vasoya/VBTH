@@ -125,5 +125,40 @@
     ],
     "product_type": "qerqr",
     "__v": 0
+  },
+  {
+    "_id": "657a8c3fdd6c75196aeb9f8f",
+    "product_keyword": [
+      "HFKJAH",
+      "KJEH",
+      "KJFAHFK"
+    ],
+    "product_name": "dihsa ",
+    "product_number": 23,
+    "product_discription": "this is for the tesst",
+    "product_rate": [
+      {
+        "name": "foot ",
+        "price": {
+          "A": "1",
+          "B": "1",
+          "C": "1",
+          "D": "1",
+          "E": "1"
+        }
+      },
+      {
+        "name": "meeter",
+        "price": {
+          "A": "1",
+          "B": "1",
+          "C": "1",
+          "D": "1",
+          "E": "1"
+        }
+      }
+    ],
+    "product_type": "student",
+    "__v": 0
   }
 ]
