@@ -3,16 +3,18 @@ const router = express.Router();
 const order=require("./../models/order");
 const cart=require("./../models/addtocart");
 const cart2=require("./../models/addtocart2");
+
 const user = require('./../models/user');
 const Storage=require("./../utilities/memory/storage");
 const e = require('express');
  router.post('/add', async (req, res) => {
-    var { data , user_id , order_type  ,flag , total , order_disciption , user_dis2} = req.body;
+    var { data , user_id , order_type  ,flag , total , order_disciption , user_dis2 , order_time} = req.body;
     if(!data || !user_id || !order_type)
     {
         return res.json({ status: "ERROR", message: "please fill all the fields" });
     }
-    const order_time = new Date();
+    // var date = moment();
+    //  order_time = date.format('D/MM/YYYY');
     var temp=0;
      temp=await order.find({order_type:order_type});
     if(order_type==="sale")
